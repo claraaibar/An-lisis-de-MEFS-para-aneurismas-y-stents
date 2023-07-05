@@ -1,7 +1,7 @@
 # Análisis de MEFS para el tratamiento de aneurismas aórticos abdominales e implementación de stents 
 
-### **Descripción del proyecto:**
-  - Temática: 💓📐 Análisis de elementos finitos (MEF), implantes cardiovasculares, stents, comportamiento estructural de aneurismas aórticos abdominales, predicción de tensiones y riesgo de rotura de estructuras vasculares.
+### **Descripción del proyecto:💓📐**
+  - Temática: Análisis de elementos finitos (MEF), implantes cardiovasculares, stents, comportamiento estructural de aneurismas aórticos abdominales, predicción de tensiones y riesgo de rotura de estructuras vasculares.
   - Software empleado: Ansys.
 
 | <img src="https://user-images.githubusercontent.com/79250883/250957939-3abaa455-111f-4b49-b29b-eab8fab99a3b.png" alt="Biosensor Cutáneo" width="1600" height="auto"> | Análisis de MEFS y stents para el tratamiento de aneurismas aórticos abdominales. Investigación de modelos de elementos finitos y evaluación de resultados. Enfoque en la prevención de rupturas vasculares y futuras mejoras en el diseño y optimización de stents.|
